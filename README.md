@@ -1,7 +1,7 @@
 <div align='center'>
 
-<h1>VintiMart</h1>
-<p>VintiMart is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank. It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.</p>
+<h1>GearGuard</h1>
+<p>With our tool management system, you can easily add all your tools to the platform and manage them efficiently. Whether you need to track the status, report issues, or check availability, our system provides a streamlined way to keep everything organized. Just click the 'Add Your Tools' button to get started and ensure your tools are always accounted for and in good condition. Managing your tools has never been easier—start now and experience the convenience of hassle-free tool management!</p>
 
 <h4> <a href=https://vintimart-9x78.onrender.com/>View Demo</a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/issues"> Request Feature </a> </h4>
 
