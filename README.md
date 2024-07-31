@@ -3,7 +3,7 @@
 <h1>GearGuard</h1>
 <p>With our tool management system, you can easily add all your tools to the platform and manage them efficiently. Whether you need to track the status, report issues, or check availability, our system provides a streamlined way to keep everything organized. Just click the 'Add Your Tools' button to get started and ensure your tools are always accounted for and in good condition. Managing your tools has never been easier—start now and experience the convenience of hassle-free tool management!</p>
 
-<h4> <a href=https://vintimart-9x78.onrender.com/>View Demo</a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/issues"> Request Feature </a> </h4>
+<h4> <a href=https://indicorp-frontend.onrender.com//>View Demo</a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/omkarsharma2821/IndiCorp-Assessment/issues"> Request Feature </a> </h4>
 
 
 </div>
