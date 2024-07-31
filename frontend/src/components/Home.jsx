@@ -89,7 +89,7 @@ const Home = () => {
               <Typography variant="h4" mb={0} >
               Add your tools and manage them effortlessly with our system. Keep track of issues, status, and availability—all in one place.
               </Typography>
-              <NavLink to="/user/addtool">
+              <NavLink to="/addtool">
                 <Button
                   sx={{
                     textTransform: "none",
