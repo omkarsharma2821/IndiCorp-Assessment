@@ -30,12 +30,12 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/addtool" element={<UserAuth><AddTool /></UserAuth>} />
             <Route path="/browsetool" element={<BrowseTool />} />
-            <Route path="/cartpage" element={<UserAuth><CartPage /></UserAuth>} />
-            <Route path="/contact" element={<UserAuth><Contact /></UserAuth>} />
+            <Route path="/cartpage" element={<CartPage />} />
+            <Route path="/contact" element={<Contact />} />
            
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
-            <Route path="/view" element={<UserAuth><ViewOrders /></UserAuth>} />
+            <Route path="/view" element={<ViewOrders />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           <Footer/>
