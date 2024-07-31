@@ -55,7 +55,7 @@ const AddFurniture = () => {
       console.log(values);
 
       const res = await fetch(
-        `${process.env.REACT_APP_VINTIMART_URL}/tool/add`,
+        `${process.env.REACT_APP_VINTIMART_URL}/furniture/add`,
         {
           method: "POST",
           body: JSON.stringify(values),
